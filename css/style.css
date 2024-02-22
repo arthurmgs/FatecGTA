@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, Helvetica;
+}
+
+header{
+    border-bottom: 5px solid #40A2D8;   
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+header h1{
+    font-size: 80px;
+    line-height: 1;
+}
+
+header h2{
+    font-size: 30px;
+    line-height: 1;
+}
+
+header h3{
+    font-size: 20px;
+    line-height: 2;
+}
+
+footer{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: right;
+}
+
+footer p{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Criando Classes */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.h1{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    color: #0B60B0;
+}
+
+.text-justify{
+    text-align: justify;
+    padding-bottom: 15px;
+    line-height: 1.5;
+}
+
+.body{
+    background-color: #F0EDCF;
+    color: #000000;
+    border-top: 5px solid #40A2D8;
+    border: 5px solid #40A2D8;
+}
+
+.img-container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-100{
+    width: 100%;
+    padding-top: 10px;   
+}
+
+.section-container{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.footer{
+    border-top: 5px solid #40A2D8;
+}
+
+.bold{
+    font-weight: bold;
+}
